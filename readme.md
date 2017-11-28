@@ -1,6 +1,5 @@
 # unit 配置使用以及 go的环境配置步骤
 
-...shell
     1: git clone https://github.com/nginx/unit
     2: 在unit/unit目录下执行 make 以及make install ，输出
     install -d sbin
